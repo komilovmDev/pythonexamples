@@ -532,3 +532,23 @@
 # my_set = {1,2,3,4,5,6}
 # my_set.remove(2)
 # print(my_set)
+
+# 97 - task
+# my_set = {1,2,3,4,5,6}
+# my_set2 = {1,2,3,4,6}
+# print(my_set.symmetric_difference(my_set2))
+
+# 98 - task
+# my_set = {1,2,3,4,5,6,2,121}
+# my_set2 = {1,2,3,4,5,6,5}
+# print(my_set.symmetric_difference_update(my_set2))
+
+# 99 - task
+# my_set = {1,2,3,4,5,6,2,121}
+# print(len(my_set))
+
+# 101 - task
+# MY_SET = {1,2,3,4,5,6}
+# print(frozenset(MY_SET))
+
+# 102 - task
