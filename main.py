@@ -552,3 +552,39 @@
 # print(frozenset(MY_SET))
 
 # 102 - task
+# my_tuple = (1,2,3,4,5)
+# print(my_tuple.count(3))
+
+# 103 - task
+# my_tuple = (1,2,3,4,5)
+# print(my_tuple.index(1))
+
+# 104 - task
+# my_tuple = (1,2,3,4,5)
+# print(len(my_tuple))
+
+# 105 - task
+# my_tuple = (1,2,3,4,22)
+# print(max(my_tuple))
+
+# 106 - task
+# my_tuple = (1,2,3,4,5)
+# print(min(my_tuple))
+
+# 107 - task
+# my_tuple = (1,2,3,4,5)
+# print(sum(my_tuple))
+
+# 108 - task
+# my_tuple = (1,2,3,14,5)
+# print(sorted(my_tuple))
+
+# 109 - task
+# my_tuple = (1,2,3,14,5)
+# my_tuple2 = (1,2,3,4,5)
+# my_tuple.concatenation(my_tuple2)
+# print(my_tuple)
+
+# 110 - task
+# my_tuple = (1,2,3,4,5)
+# print(my_tuple.slicing(1,4))
